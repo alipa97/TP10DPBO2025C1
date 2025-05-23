@@ -60,23 +60,29 @@ Mencatat riwayat hubungan cinta seseorang dengan crush tertentu.
 
 ## views/love_status_form.php
 - tampilan form tambah/edit status cinta
+![image](https://github.com/user-attachments/assets/fcfb5dd4-df76-4cdc-b4cd-fc697d64d536)
 
 ## views/love_status_list.php
 - Daftar status cinta dengan tombol tambah, edit, hapus.
+![image](https://github.com/user-attachments/assets/b8e06044-a72c-4fdc-a6ac-b7c71e5ca7d1)
 
 ## views/crush_form.php
 - Form tambah/edit data crush (nama crush).
+![image](https://github.com/user-attachments/assets/4bf0a618-fc28-43fc-ac69-95c38ac4857c)
 
 ## views/crush_list.php
 - Menampilkan daftar crush dengan tombol tambah, edit, dan hapus.
+![image](https://github.com/user-attachments/assets/d541a1ba-e4d0-4f3d-b153-3debbb655c35)
 
 ## views/love_history_list.php
 - Tampilkan tabel daftar riwayat cinta lengkap dengan opsi edit dan hapus.
 - Menampilkan kolom seperti nama pemilik cinta, crush, status, dan tanggal mulai ngedate.
+![image](https://github.com/user-attachments/assets/f59a1e11-e0cb-4740-85be-d7db28fdf5e1)
 
 ## views/love_history_form.php
 - Form tambah dan edit riwayat cinta.
 - Input: nama pemilik, pilihan crush (dropdown), tanggal mulai ngedate, pilihan status cinta (dropdown).
+![image](https://github.com/user-attachments/assets/68c74039-58e3-43b8-99b1-a353c50d4879)
 
 ## index.php
 - Titik masuk aplikasi yang menerima request entity dan action.
