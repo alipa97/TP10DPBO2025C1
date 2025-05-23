@@ -85,6 +85,7 @@ Mencatat riwayat hubungan cinta seseorang dengan crush tertentu.
 - Memanggil View yang sesuai untuk menampilkan UI.
 
 # Penjelasan Alur Program (MVVM)
+index.php membaca parameter URL (entity dan action), lalu memanggil ViewModel terkait. ViewModel mengakses Model untuk operasi data di database, kemudian mengirim data ke View untuk ditampilkan. User berinteraksi lewat View, dan siklus ini berulang.
 
 ## 1. index.php 
 Adalah router utama yang menentukan ViewModel dan View mana yang akan dipakai berdasar parameter URL entity dan action.
